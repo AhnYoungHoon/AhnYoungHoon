@@ -1,6 +1,6 @@
 # Hi, I'm Ahn. (안녕, 나는 아니야)
 
-### My History (영훈실록)
+### My History (안영훈실록)
 🏫 숭실대학교 기독교학과 Soongsil University Department of Christian Studies (2016.03 ~ 2023.06 예정)
 <br>
 👨‍💻 코딩 입문 Start Coding (2019.01 ~ )
@@ -11,11 +11,11 @@
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
-🏢 국세청 NTS : National Tax Service (임용유예 신청예정)
+🏢 국세청 전산직 NTS : National Tax Service (임용유예 신청예정)
 <br>
 <br>
 
-### Stacks (안영훈의 기술)
+### My Stacks (안영훈의 기술)
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -34,7 +34,7 @@
 </div>
 <br>
 
-### Hobby (안영훈의 취미)
+### My Hobby (안영훈의 취미)
 💪 운동: 철봉(최고기록 23개, 머슬업, 타입라이터 풀업, 아쳐풀업), 3km 달리기, 쌍절곤, 각종 맨몸운동
 <br>
 📰 경제신문 읽기, 📖 독서
