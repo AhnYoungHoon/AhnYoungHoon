@@ -7,7 +7,7 @@
 <br>
 👨‍💻 널링 개발팀 인턴 Knurling Development Team Intern (2021.08 ~ 2021.08)
 <br>
-🦁 멋쟁이사자처럼 숭실대 10기 백엔드팀 LIKELION Soongsil University 10th Backend Team (2022.03 ~ 2022.12)
+🦁 멋쟁이사자처럼 숭실대 10기 백엔드 개발팀 LIKELION Soongsil University 10th Backend Team (2022.03 ~ 2022.12)
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
