@@ -34,7 +34,7 @@
 </div>
 <br>
 
-### My Certificates
+### My Certificates (안영훈의 자격증)
 - 정보처리기사
 - 전산회계2급
 - 공수기본자격증
