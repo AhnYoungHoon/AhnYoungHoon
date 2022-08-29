@@ -11,7 +11,7 @@
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
-🏢 국세청 전산직 NTS : National Tax Service (임용유예 신청예정)
+🏢 국세청 전산직 NTS : National Tax Service Computerized Official (임용유예 신청예정)
 <br>
 <br>
 
@@ -35,9 +35,9 @@
 <br>
 
 ### My Certificates (안영훈의 자격증)
-- 정보처리기사
-- 전산회계2급
-- 공수기본자격증
+- 정보처리기사 (2021.06)
+- 전산회계2급 (2017.10)
+- 공수기본자격증 (2018.04)
 
 
 ### My Hobby (안영훈의 취미)
