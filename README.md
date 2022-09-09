@@ -11,7 +11,7 @@
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
-🏢 국세청 전산직 NTS : National Tax Service Computerized Official (임용유예 신청예정)
+🏢 국세청 전산직 NTS : National Tax Service Computerized Official (현재 임용유예 중)
 <br>
 <br>
 
