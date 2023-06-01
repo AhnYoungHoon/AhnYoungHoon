@@ -13,7 +13,7 @@
 <br>
 🏢 국세청 전산직 공무원 NTS : National Tax Service Computerized Official (현재 임용유예 중)
 <br>
-🦁 멋쟁이사자처럼 숭실대 11기 기획팀 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
+🦁 멋쟁이사자처럼 숭실대 11기 기획 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 
 
 ### My Hobby (안영훈의 취미)
-💪 운동: 헬스, 철봉, 3km 달리기, 쌍절곤, 각종 맨몸운동
+💪 운동: 헬스, 철봉, 농구, 3km 달리기, 쌍절곤, 각종 맨몸운동
 <br>
 📰 경제신문 읽기, 📖 독서
 <br>
