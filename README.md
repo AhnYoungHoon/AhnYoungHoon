@@ -1,5 +1,8 @@
 # Hi, I'm Ahn. (안녕, 나는 아니야)
-
+<i>"What's happened's happened"<br>
+"Batter my heart, three-person'd God"<br>
+"Matthew 25:40"</i>
+<br><br>
 ### My History (안영훈실록)
 🏫 숭실대학교 기독교학과 Soongsil University Department of Christian Studies (2016.03 ~ 2023.06 예정)
 <br>
@@ -11,11 +14,11 @@
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
-🏢 국세청 전산직 공무원 NTS : National Tax Service Computerized Official (현재 임용유예 중)
+🏢 국세청 전산직 공무원 NTS : National Tax Service Computerized Official (2023.10 ~ )
 <br>
 🦁 멋쟁이사자처럼 숭실대 11기 기획 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
-<br>
-<br>
+<br><br>
+
 
 ### My Stacks (안영훈의 기술)
 <div>
@@ -37,14 +40,14 @@
 - SQLD (2022.12.02)
 - 전산회계2급 (2017.10)
 - 공수기본자격증 (2018.04)
-
+<br>
 
 ### My Hobby (안영훈의 취미)
-💪 운동: 헬스, 철봉, 농구, 3km 달리기, 쌍절곤, 각종 맨몸운동
+💪 운동: 헬스, 철봉, 농구, 달리기, 쌍절곤, 각종 맨몸운동
 <br>
-📰 경제신문 읽기, 📖 독서
+📖 독서, 📰신문 읽기
 <br>
-📺 애니메이션, 만화보기, 넷플릭스, 티빙 시청
+📺 애니메이션, 영화보기, 넷플릭스, 티빙 시청
 <br>
 🎥 영화관 가기
 <br>
