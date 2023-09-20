@@ -14,10 +14,11 @@
 <br>
 💯 전산직 공무원 합격 Pass the Computerized Official (2022.07)
 <br>
+🦁 멋쟁이사자처럼 숭실대 11기 기획 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
+<br>
 🏢 국세청 전산직 공무원 NTS : National Tax Service Computerized Official (2023.10 ~ )
 <br>
-🦁 멋쟁이사자처럼 숭실대 11기 기획 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
-<br><br>
+<br>
 
 
 ### My Stacks (안영훈의 기술)
