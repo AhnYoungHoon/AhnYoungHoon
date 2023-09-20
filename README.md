@@ -4,7 +4,7 @@
 "Matthew 25:40"</i>
 <br><br>
 ### My History (안영훈실록)
-🏫 숭실대학교 기독교학과 Soongsil University Department of Christian Studies (2016.03 ~ 2023.06 예정)
+🏫 숭실대학교 기독교학과 Soongsil University Department of Christian Studies (2016.03 ~ 2023.08)
 <br>
 👨‍💻 코딩 입문 Start Coding (2019.01 ~ )
 <br>
@@ -50,7 +50,7 @@
 <br>
 📺 애니메이션, 영화보기, 넷플릭스, 티빙 시청
 <br>
-🎥 영화관 가기
+🎥 영화관 가기, 🚘 드라이브
 <br>
 <br>
 
