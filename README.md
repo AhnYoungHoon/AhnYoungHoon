@@ -6,6 +6,8 @@
 ### My History (안영훈실록)
 🏫 숭실대학교 기독교학과 Soongsil University Department of Christian Studies (2016.03 ~ 2023.08)
 <br>
+🪖 대한민국 특수전사령부 특전병 ROK Army Special Warfare Command SW soldier (2017.10 ~ 2019.07)
+<br>
 👨‍💻 코딩 입문 Start Coding (2019.01 ~ )
 <br>
 👨‍💻 널링 개발팀 인턴 Knurling Development Team Intern (2021.08)
@@ -44,7 +46,7 @@
 <br>
 
 ### My Hobby (안영훈의 취미)
-💪 운동: 헬스, 철봉, 농구, 달리기, 쌍절곤, 각종 맨몸운동
+💪 운동: 헬스, 철봉, 농구, 달리기, 쌍절곤, 각종 맨몸운동, 프리레틱
 <br>
 📖 독서, 📰신문 읽기
 <br>
