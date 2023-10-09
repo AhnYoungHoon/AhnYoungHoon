@@ -8,7 +8,7 @@
 <br>
 👨‍💻 코딩 입문 Start Coding (2019.01 ~ )
 <br>
-👨‍💻 널링 개발팀 인턴 Knurling Development Team Intern (2021.08 ~ 2021.08)
+👨‍💻 널링 개발팀 인턴 Knurling Development Team Intern (2021.08)
 <br>
 🦁 멋쟁이사자처럼 숭실대 10기 백엔드 개발팀 LIKELION Soongsil University 10th Backend Team (2022.03 ~ 2022.12)
 <br>
