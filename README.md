@@ -18,7 +18,8 @@
 <br>
 🦁 멋쟁이사자처럼 숭실대 11기 기획 파트장 LIKELION Soongsil University 11th Project Management Team Lead (2023.01 ~ 2023.12)
 <br>
-🏢 국세청 전산직 공무원 NTS : National Tax Service Computerized Official (2023.10 ~ )
+🏢 국세청 전산직 조사관 NTS : National Tax Service Computerized Official (2023.10 ~ ) <br>
+* 대전지방국세청 성실납세지원국 개발지원2과 개발2팀 (2023.11 ~ )
 <br>
 <br>
 
